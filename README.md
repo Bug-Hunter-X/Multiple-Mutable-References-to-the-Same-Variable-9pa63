@@ -1,0 +1,1 @@
+This example demonstrates a common error in Rust related to mutable borrowing.  Rust's ownership and borrowing system prevents data races and other concurrency issues by strictly enforcing rules around mutable references.  The solution shows how to correctly manage borrowing in this scenario.
